@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['Subscribe']='Подписка';strings['Back to Index']='Вернуться к индексу';strings['Add Photo']='Добавить фотографию';strings['Play Slideshow']='Воспроизвести слайд-шоу';RegisterWidgetStrings("com-apple-iweb-widget-headercontrols",strings);})();

@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['Back to Album']='Назад к альбому';strings['Download']='Загрузить';strings['Previous']='Назад';strings['Next']='Далее';strings['Play Slideshow']='Воспроизвести слайд-шоу';RegisterWidgetStrings("com-apple-iweb-widget-detailview",strings);})();
